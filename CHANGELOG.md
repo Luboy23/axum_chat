@@ -7,6 +7,8 @@ All notable changes to this project will be documented in this file. See [conven
 
 ### Miscellaneous Chores
 
+- initialize basic structure for the repo - ([5fe0dce](https://github.com/Luboy23/axum_chat/commit/5fe0dce)) - lllu_23
+
 ### Other
 
 
